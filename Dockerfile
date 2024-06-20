@@ -15,7 +15,6 @@ RUN apt-get update && apt-get install -y \
 # スクリプトをコピー
 COPY normal.ipynb \
     transverseField.ipynb \
-    manualCalculation.ipynb \
     commonLogic.py \
     /app/
 
