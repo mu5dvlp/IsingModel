@@ -16,7 +16,7 @@ RUN apt-get update && apt-get install -y \
 COPY normal.ipynb \
     transverseField.ipynb \
     manualCalculation.ipynb \
-    commonLogin.py \
+    commonLogic.py \
     /app/
 
 # //ーーーーーーーーーーーーーーーーーーーーー
